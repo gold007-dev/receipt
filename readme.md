@@ -1,0 +1,1 @@
+[LICENSE](https://github.com/gold007-dev/LICENSE)
